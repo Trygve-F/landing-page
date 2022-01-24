@@ -1,0 +1,51 @@
+/* HEADER BEGINS */
+header {
+display: flex;
+justify-content: space-between;
+background-color: darkslategrey;
+}
+
+.header-links {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 0 50px;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+
+.header-image {
+    display: flex;
+    width: 80px;
+    height: auto;
+    padding: 0px 50px;
+}
+/* HEADER ENDS, SUBHEADER BEGINS */
+subheader {
+    display: flex;
+    background-color: darkslategrey;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+.subheader-info{
+    color: wheat;
+}
+
+.subheader-image {
+    width: 800px;
+    height: auto;
+}
+
+.subheader-button {
+
+}
+
+
