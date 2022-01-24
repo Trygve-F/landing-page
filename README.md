@@ -1,5 +1,9 @@
 # landing-page
-Website landing page practice
+Website landing page practice through TOP.
+Used HTML and CSS to create a landing page.
+Lots of flexbox which was both difficult and rewarding. Getting easier all the time!
+
+Image credits:
 
 Header image credit: Photo by Min An from Pexels
 
