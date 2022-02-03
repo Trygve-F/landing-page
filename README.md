@@ -1,6 +1,9 @@
 # landing-page
 Website landing page practice through TOP.
 
+Can be viewed here:
+https://trygve-f.github.io/landing-page/
+
 HTML and CSS. More to come.
 
 Image credits:
